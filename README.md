@@ -1,7 +1,7 @@
 # what_i_study
 
 ```
-Display_SensorData
+what_i_study
 ├── 📁MachineLearning
 ├── 📁DeepLearning 
 ├── 📁Algroithm
