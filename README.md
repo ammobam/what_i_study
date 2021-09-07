@@ -4,7 +4,7 @@
 what_i_study
 ├── 📁MachineLearning
 ├── 📁DeepLearning 
-├── 📁Algroithm
+├── 📁Algorithm
 ├── 📁OpenCV
 └── 📁(🐥What is next?) 
 ```
